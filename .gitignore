@@ -1,0 +1,5 @@
+# Ignore the test2 folder inside the base directory
+base/test2/
+
+# Ignore the d.js file in the root of the demo directory
+d.js
